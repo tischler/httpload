@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/scala"/>
+	<classpathentry kind="src" path="src/test/scala"/>
+	<classpathentry kind="con" path="ch.epfl.lamp.sdt.launching.SCALA_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib_managed/compile/commons-codec-1.3.jar"/>
+	<classpathentry kind="lib" path="lib_managed/compile/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib_managed/compile/dispatch_2.7.5-0.4.2.jar"/>
+	<classpathentry kind="lib" path="lib_managed/compile/httpclient-4.0-beta2.jar"/>
+	<classpathentry kind="lib" path="lib_managed/compile/httpcore-4.0-beta3.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

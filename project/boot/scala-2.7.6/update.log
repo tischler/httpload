@@ -1,0 +1,476 @@
+setting 'ivy.default.settings.dir' to 'jar:file:/Users/tischler/java/scala-2.7.6.final/bin/sbt-launcher-0.5.5.jar!/org/apache/ivy/core/settings'
+setting 'ivy.basedir' to '/Users/tischler/working/httpload/.'
+setting 'ivy.default.conf.dir' to 'jar:file:/Users/tischler/java/scala-2.7.6.final/bin/sbt-launcher-0.5.5.jar!/org/apache/ivy/core/settings'
+impossible to define new type: class not found: org.apache.ivy.plugins.trigger.LogTrigger in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.plugins.resolver.VsftpResolver in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.plugins.conflict.RegexpConflictManager in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.plugins.resolver.SshResolver in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.plugins.resolver.VfsResolver in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.plugins.resolver.SFTPResolver in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.plugins.resolver.packager.PackagerResolver in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.ant.AntCallTrigger in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.plugins.resolver.IvyRepResolver in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.ant.AntBuildTrigger in [] nor Ivy classloader
+impossible to define glob matcher: org.apache.ivy.plugins.matcher.GlobPatternMatcher was not found.
+setting 'java.runtime.name' to 'Java(TM) SE Runtime Environment'
+setting 'sun.boot.library.path' to '/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Libraries'
+setting 'java.vm.version' to '14.1-b02-92'
+setting 'awt.nativeDoubleBuffering' to 'true'
+setting 'gopherProxySet' to 'false'
+setting 'java.vm.vendor' to 'Apple Inc.'
+setting 'java.vendor.url' to 'http://www.apple.com/'
+setting 'path.separator' to ':'
+setting 'java.vm.name' to 'Java HotSpot(TM) 64-Bit Server VM'
+setting 'file.encoding.pkg' to 'sun.io'
+setting 'sun.java.launcher' to 'SUN_STANDARD'
+setting 'user.country' to 'US'
+setting 'sun.os.patch.level' to 'unknown'
+setting 'java.vm.specification.name' to 'Java Virtual Machine Specification'
+setting 'user.dir' to '/Users/tischler/working/httpload'
+setting 'java.runtime.version' to '1.6.0_15-b03-226'
+setting 'java.awt.graphicsenv' to 'apple.awt.CGraphicsEnvironment'
+setting 'java.endorsed.dirs' to '/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Home/lib/endorsed'
+setting 'os.arch' to 'x86_64'
+setting 'java.io.tmpdir' to '/var/folders/jN/jNjEySm6HN4+pNSNSkIOWU+++TI/-Tmp-/'
+setting 'line.separator' to '
+'
+setting 'java.vm.specification.vendor' to 'Sun Microsystems Inc.'
+setting 'os.name' to 'Mac OS X'
+setting 'sun.jnu.encoding' to 'MacRoman'
+setting 'java.library.path' to '.:/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java'
+setting 'sbt.boot' to 'true'
+setting 'java.specification.name' to 'Java Platform API Specification'
+setting 'java.class.version' to '50.0'
+setting 'sun.management.compiler' to 'HotSpot 64-Bit Server Compiler'
+setting 'os.version' to '10.5.8'
+setting 'user.home' to '/Users/tischler'
+setting 'user.timezone' to 'America/Chicago'
+setting 'scala.home' to '/Users/tischler/working/httpload/project/boot/scala-2.7.6'
+setting 'java.awt.printerjob' to 'apple.awt.CPrinterJob'
+setting 'file.encoding' to 'MacRoman'
+setting 'java.specification.version' to '1.6'
+setting 'java.class.path' to '/Users/tischler/java/scala/bin/sbt-launcher-0.5.5.jar'
+setting 'user.name' to 'tischler'
+setting 'java.vm.specification.version' to '1.0'
+setting 'java.home' to '/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Home'
+setting 'sun.arch.data.model' to '64'
+setting 'user.language' to 'en'
+setting 'java.specification.vendor' to 'Sun Microsystems Inc.'
+setting 'awt.toolkit' to 'apple.awt.CToolkit'
+setting 'java.vm.info' to 'mixed mode'
+setting 'java.version' to '1.6.0_15'
+setting 'java.ext.dirs' to '/Library/Java/Extensions:/System/Library/Java/Extensions:/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Home/lib/ext'
+setting 'sun.boot.class.path' to '/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Classes/jsfd.jar:/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Classes/classes.jar:/System/Library/Frameworks/JavaVM.framework/Frameworks/JavaRuntimeSupport.framework/Resources/Java/JavaRuntimeSupport.jar:/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Classes/ui.jar:/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Classes/laf.jar:/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Classes/sunrsasign.jar:/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Classes/jsse.jar:/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Classes/jce.jar:/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Classes/charsets.jar'
+setting 'java.vendor' to 'Apple Inc.'
+setting 'file.separator' to '/'
+setting 'java.vendor.url.bug' to 'http://bugreport.apple.com/'
+setting 'sun.io.unicode.encoding' to 'UnicodeLittle'
+setting 'sun.cpu.endian' to 'little'
+setting 'mrj.version' to '1050.1.6.0_15-226'
+setting 'sun.cpu.isalist' to ''
+setting 'ivy.default.ivy.user.dir' to '/Users/tischler/.ivy2'
+setting 'ivy.home' to '/Users/tischler/.ivy2'
+no default ivy user dir defined: set to /Users/tischler/.ivy2
+setting 'ivy.cache.dir' to '/Users/tischler/.ivy2/cache'
+no default cache defined: set to /Users/tischler/.ivy2/cache
+setting 'ivy.basedir' to '/Users/tischler/working/httpload/project/boot/scala-2.7.6'
+setting 'basedir' to '/Users/tischler/working/httpload/project/boot/scala-2.7.6'
+:: resolving dependencies :: sbt#boot;1.0
+	confs: [default]
+	validate = true
+	refresh = false
+resolving dependencies for configuration 'default'
+== resolving dependencies for sbt#boot;1.0 [default]
+loadData of sbt#boot;1.0 of rootConf=default
+== resolving dependencies sbt#boot;1.0->org.scala-lang#scala-compiler;2.7.6 [default->default]
+loadData of org.scala-lang#scala-compiler;2.7.6 of rootConf=default
+	using redefined-public to resolve org.scala-lang#scala-compiler;2.7.6
+redefined-public: Checking cache for: dependency: org.scala-lang#scala-compiler;2.7.6 {default=[default]}
+redefined-public: no namespace defined: using system
+	no ivy file in cache for org.scala-lang#scala-compiler;2.7.6: tried /Users/tischler/.ivy2/cache/org.scala-lang/scala-compiler/ivy-2.7.6.xml
+redefined-public: no latest strategy defined: using default
+local: no namespace defined: using system
+	no ivy file in cache for org.scala-lang#scala-compiler;2.7.6: tried /Users/tischler/.ivy2/cache/org.scala-lang/scala-compiler/ivy-2.7.6.xml
+	 trying /Users/tischler/.ivy2/local/org.scala-lang/scala-compiler/2.7.6/ivys/ivy.xml
+		tried /Users/tischler/.ivy2/local/org.scala-lang/scala-compiler/2.7.6/ivys/ivy.xml
+	local: resource not reachable for org.scala-lang#scala-compiler;2.7.6: res=/Users/tischler/.ivy2/local/org.scala-lang/scala-compiler/2.7.6/ivys/ivy.xml
+	 trying /Users/tischler/.ivy2/local/org.scala-lang/scala-compiler/2.7.6/jars/scala-compiler.jar
+		tried /Users/tischler/.ivy2/local/org.scala-lang/scala-compiler/2.7.6/jars/scala-compiler.jar
+	local: resource not reachable for org.scala-lang#scala-compiler;2.7.6: res=/Users/tischler/.ivy2/local/org.scala-lang/scala-compiler/2.7.6/jars/scala-compiler.jar
+	local: no ivy file nor artifact found for org.scala-lang#scala-compiler;2.7.6
+Maven2 Local: no namespace defined: using system
+	no ivy file in cache for org.scala-lang#scala-compiler;2.7.6: tried /Users/tischler/.ivy2/cache/org.scala-lang/scala-compiler/ivy-2.7.6.xml
+	 trying file:///Users/tischler/.m2/repository/org/scala-lang/scala-compiler/2.7.6/scala-compiler-2.7.6.pom
+		tried file:///Users/tischler/.m2/repository/org/scala-lang/scala-compiler/2.7.6/scala-compiler-2.7.6.pom
+installing class org.apache.ivy.util.url.IvyAuthenticator
+	Maven2 Local: resource not reachable for org/scala-lang#scala-compiler;2.7.6: res=file:/Users/tischler/.m2/repository/org/scala-lang/scala-compiler/2.7.6/scala-compiler-2.7.6.pom
+	 trying file:///Users/tischler/.m2/repository/org/scala-lang/scala-compiler/2.7.6/scala-compiler-2.7.6.jar
+		tried file:///Users/tischler/.m2/repository/org/scala-lang/scala-compiler/2.7.6/scala-compiler-2.7.6.jar
+	Maven2 Local: resource not reachable for org/scala-lang#scala-compiler;2.7.6: res=file:/Users/tischler/.m2/repository/org/scala-lang/scala-compiler/2.7.6/scala-compiler-2.7.6.jar
+	Maven2 Local: no ivy file nor artifact found for org.scala-lang#scala-compiler;2.7.6
+Maven Central: no namespace defined: using system
+	no ivy file in cache for org.scala-lang#scala-compiler;2.7.6: tried /Users/tischler/.ivy2/cache/org.scala-lang/scala-compiler/ivy-2.7.6.xml
+	 trying http://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.7.6/scala-compiler-2.7.6.pom
+		tried http://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.7.6/scala-compiler-2.7.6.pom
+	Maven Central: found md file for org.scala-lang#scala-compiler;2.7.6
+		=> http://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.7.6/scala-compiler-2.7.6.pom (2.7.6)
+	parser = pom parser
+	no ivy file in cache for org.scala-lang#scala-compiler;2.7.6: tried /Users/tischler/.ivy2/cache/org.scala-lang/scala-compiler/ivy-2.7.6.xml
+downloading http://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.7.6/scala-compiler-2.7.6.pom ...
+	Maven Central: downloading http://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.7.6/scala-compiler-2.7.6.pom
+		to /Users/tischler/.ivy2/cache/org.scala-lang/scala-compiler/ivy-2.7.6.xml.original.part
+	[SUCCESSFUL ] org.scala-lang#scala-compiler;2.7.6!scala-compiler.pom(pom.original) (191ms)
+	 trying /Users/tischler/.ivy2/local/org.scala-lang/scala-compiler/2.7.6/jars/scala-compiler.jar
+		tried /Users/tischler/.ivy2/local/org.scala-lang/scala-compiler/2.7.6/jars/scala-compiler.jar
+	local: resource not reachable for org.scala-lang#scala-compiler;2.7.6: res=/Users/tischler/.ivy2/local/org.scala-lang/scala-compiler/2.7.6/jars/scala-compiler.jar
+	 trying file:///Users/tischler/.m2/repository/org/scala-lang/scala-compiler/2.7.6/scala-compiler-2.7.6.jar
+		tried file:///Users/tischler/.m2/repository/org/scala-lang/scala-compiler/2.7.6/scala-compiler-2.7.6.jar
+	Maven2 Local: resource not reachable for org/scala-lang#scala-compiler;2.7.6: res=file:/Users/tischler/.m2/repository/org/scala-lang/scala-compiler/2.7.6/scala-compiler-2.7.6.jar
+	 trying http://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.7.6/scala-compiler-2.7.6.jar
+		tried http://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.7.6/scala-compiler-2.7.6.jar
+	 trying /Users/tischler/.ivy2/local/org.scala-lang/scala-compiler/2.7.6/sources/scala-compiler.jar
+		tried /Users/tischler/.ivy2/local/org.scala-lang/scala-compiler/2.7.6/sources/scala-compiler.jar
+	local: resource not reachable for org.scala-lang#scala-compiler;2.7.6: res=/Users/tischler/.ivy2/local/org.scala-lang/scala-compiler/2.7.6/sources/scala-compiler.jar
+	 trying file:///Users/tischler/.m2/repository/org/scala-lang/scala-compiler/2.7.6/scala-compiler-2.7.6-sources.jar
+		tried file:///Users/tischler/.m2/repository/org/scala-lang/scala-compiler/2.7.6/scala-compiler-2.7.6-sources.jar
+	Maven2 Local: resource not reachable for org/scala-lang#scala-compiler;2.7.6: res=file:/Users/tischler/.m2/repository/org/scala-lang/scala-compiler/2.7.6/scala-compiler-2.7.6-sources.jar
+	 trying http://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.7.6/scala-compiler-2.7.6-sources.jar
+		tried http://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.7.6/scala-compiler-2.7.6-sources.jar
+source artifact found for org.scala-lang#scala-compiler;2.7.6
+	 trying /Users/tischler/.ivy2/local/org.scala-lang/scala-compiler/2.7.6/javadocs/scala-compiler.jar
+		tried /Users/tischler/.ivy2/local/org.scala-lang/scala-compiler/2.7.6/javadocs/scala-compiler.jar
+	local: resource not reachable for org.scala-lang#scala-compiler;2.7.6: res=/Users/tischler/.ivy2/local/org.scala-lang/scala-compiler/2.7.6/javadocs/scala-compiler.jar
+	 trying file:///Users/tischler/.m2/repository/org/scala-lang/scala-compiler/2.7.6/scala-compiler-2.7.6-javadoc.jar
+		tried file:///Users/tischler/.m2/repository/org/scala-lang/scala-compiler/2.7.6/scala-compiler-2.7.6-javadoc.jar
+	Maven2 Local: resource not reachable for org/scala-lang#scala-compiler;2.7.6: res=file:/Users/tischler/.m2/repository/org/scala-lang/scala-compiler/2.7.6/scala-compiler-2.7.6-javadoc.jar
+	 trying http://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.7.6/scala-compiler-2.7.6-javadoc.jar
+		tried http://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.7.6/scala-compiler-2.7.6-javadoc.jar
+HTTP response status: 404 url=http://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.7.6/scala-compiler-2.7.6-javadoc.jar
+CLIENT ERROR: Not Found url=http://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.7.6/scala-compiler-2.7.6-javadoc.jar
+	Maven Central: resource not reachable for org/scala-lang#scala-compiler;2.7.6: res=http://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.7.6/scala-compiler-2.7.6-javadoc.jar
+	 trying http://scala-tools.org/repo-releases/org/scala-lang/scala-compiler/2.7.6/scala-compiler-2.7.6-javadoc.jar
+		tried http://scala-tools.org/repo-releases/org/scala-lang/scala-compiler/2.7.6/scala-compiler-2.7.6-javadoc.jar
+HTTP response status: 404 url=http://scala-tools.org/repo-releases/org/scala-lang/scala-compiler/2.7.6/scala-compiler-2.7.6-javadoc.jar
+CLIENT ERROR: Not Found url=http://scala-tools.org/repo-releases/org/scala-lang/scala-compiler/2.7.6/scala-compiler-2.7.6-javadoc.jar
+	Scala-Tools Maven2 Repository: resource not reachable for org/scala-lang#scala-compiler;2.7.6: res=http://scala-tools.org/repo-releases/org/scala-lang/scala-compiler/2.7.6/scala-compiler-2.7.6-javadoc.jar
+	 trying http://scala-tools.org/repo-snapshots/org/scala-lang/scala-compiler/2.7.6/scala-compiler-2.7.6-javadoc.jar
+		tried http://scala-tools.org/repo-snapshots/org/scala-lang/scala-compiler/2.7.6/scala-compiler-2.7.6-javadoc.jar
+HTTP response status: 404 url=http://scala-tools.org/repo-snapshots/org/scala-lang/scala-compiler/2.7.6/scala-compiler-2.7.6-javadoc.jar
+CLIENT ERROR: Not Found url=http://scala-tools.org/repo-snapshots/org/scala-lang/scala-compiler/2.7.6/scala-compiler-2.7.6-javadoc.jar
+	Scala-Tools Maven2 Snapshots Repository: resource not reachable for org/scala-lang#scala-compiler;2.7.6: res=http://scala-tools.org/repo-snapshots/org/scala-lang/scala-compiler/2.7.6/scala-compiler-2.7.6-javadoc.jar
+no javadoc artifact found for org.scala-lang#scala-compiler;2.7.6
+	default-cache: parsed downloaded md file for org.scala-lang#scala-compiler;2.7.6; parsed=org.scala-lang#scala-compiler;2.7.6
+	checking org.scala-lang#scala-compiler;2.7.6 from Maven Central against [none]
+	module revision kept as first found: org.scala-lang#scala-compiler;2.7.6 from Maven Central
+	found org.scala-lang#scala-compiler;2.7.6 in Maven Central
+== resolving dependencies sbt#boot;1.0->org.scala-lang#scala-compiler;2.7.6 [default->runtime]
+loadData of org.scala-lang#scala-compiler;2.7.6 of rootConf=default
+== resolving dependencies sbt#boot;1.0->org.scala-lang#scala-compiler;2.7.6 [default->compile]
+loadData of org.scala-lang#scala-compiler;2.7.6 of rootConf=default
+== resolving dependencies org.scala-lang#scala-compiler;2.7.6->org.scala-lang#scala-library;2.7.6 [compile->master(*)]
+loadData of org.scala-lang#scala-library;2.7.6 of rootConf=default
+	using redefined-public to resolve org.scala-lang#scala-library;2.7.6
+redefined-public: Checking cache for: dependency: org.scala-lang#scala-library;2.7.6 {compile=[compile(*), master(*)], runtime=[runtime(*)]}
+	no ivy file in cache for org.scala-lang#scala-library;2.7.6: tried /Users/tischler/.ivy2/cache/org.scala-lang/scala-library/ivy-2.7.6.xml
+	no ivy file in cache for org.scala-lang#scala-library;2.7.6: tried /Users/tischler/.ivy2/cache/org.scala-lang/scala-library/ivy-2.7.6.xml
+	 trying /Users/tischler/.ivy2/local/org.scala-lang/scala-library/2.7.6/ivys/ivy.xml
+		tried /Users/tischler/.ivy2/local/org.scala-lang/scala-library/2.7.6/ivys/ivy.xml
+	local: resource not reachable for org.scala-lang#scala-library;2.7.6: res=/Users/tischler/.ivy2/local/org.scala-lang/scala-library/2.7.6/ivys/ivy.xml
+	 trying /Users/tischler/.ivy2/local/org.scala-lang/scala-library/2.7.6/jars/scala-library.jar
+		tried /Users/tischler/.ivy2/local/org.scala-lang/scala-library/2.7.6/jars/scala-library.jar
+	local: resource not reachable for org.scala-lang#scala-library;2.7.6: res=/Users/tischler/.ivy2/local/org.scala-lang/scala-library/2.7.6/jars/scala-library.jar
+	local: no ivy file nor artifact found for org.scala-lang#scala-library;2.7.6
+	no ivy file in cache for org.scala-lang#scala-library;2.7.6: tried /Users/tischler/.ivy2/cache/org.scala-lang/scala-library/ivy-2.7.6.xml
+	 trying file:///Users/tischler/.m2/repository/org/scala-lang/scala-library/2.7.6/scala-library-2.7.6.pom
+		tried file:///Users/tischler/.m2/repository/org/scala-lang/scala-library/2.7.6/scala-library-2.7.6.pom
+	Maven2 Local: resource not reachable for org/scala-lang#scala-library;2.7.6: res=file:/Users/tischler/.m2/repository/org/scala-lang/scala-library/2.7.6/scala-library-2.7.6.pom
+	 trying file:///Users/tischler/.m2/repository/org/scala-lang/scala-library/2.7.6/scala-library-2.7.6.jar
+		tried file:///Users/tischler/.m2/repository/org/scala-lang/scala-library/2.7.6/scala-library-2.7.6.jar
+	Maven2 Local: resource not reachable for org/scala-lang#scala-library;2.7.6: res=file:/Users/tischler/.m2/repository/org/scala-lang/scala-library/2.7.6/scala-library-2.7.6.jar
+	Maven2 Local: no ivy file nor artifact found for org.scala-lang#scala-library;2.7.6
+	no ivy file in cache for org.scala-lang#scala-library;2.7.6: tried /Users/tischler/.ivy2/cache/org.scala-lang/scala-library/ivy-2.7.6.xml
+	 trying http://repo1.maven.org/maven2/org/scala-lang/scala-library/2.7.6/scala-library-2.7.6.pom
+		tried http://repo1.maven.org/maven2/org/scala-lang/scala-library/2.7.6/scala-library-2.7.6.pom
+	Maven Central: found md file for org.scala-lang#scala-library;2.7.6
+		=> http://repo1.maven.org/maven2/org/scala-lang/scala-library/2.7.6/scala-library-2.7.6.pom (2.7.6)
+	parser = pom parser
+	no ivy file in cache for org.scala-lang#scala-library;2.7.6: tried /Users/tischler/.ivy2/cache/org.scala-lang/scala-library/ivy-2.7.6.xml
+downloading http://repo1.maven.org/maven2/org/scala-lang/scala-library/2.7.6/scala-library-2.7.6.pom ...
+	Maven Central: downloading http://repo1.maven.org/maven2/org/scala-lang/scala-library/2.7.6/scala-library-2.7.6.pom
+		to /Users/tischler/.ivy2/cache/org.scala-lang/scala-library/ivy-2.7.6.xml.original.part
+	[SUCCESSFUL ] org.scala-lang#scala-library;2.7.6!scala-library.pom(pom.original) (401ms)
+	 trying /Users/tischler/.ivy2/local/org.scala-lang/scala-library/2.7.6/jars/scala-library.jar
+		tried /Users/tischler/.ivy2/local/org.scala-lang/scala-library/2.7.6/jars/scala-library.jar
+	local: resource not reachable for org.scala-lang#scala-library;2.7.6: res=/Users/tischler/.ivy2/local/org.scala-lang/scala-library/2.7.6/jars/scala-library.jar
+	 trying file:///Users/tischler/.m2/repository/org/scala-lang/scala-library/2.7.6/scala-library-2.7.6.jar
+		tried file:///Users/tischler/.m2/repository/org/scala-lang/scala-library/2.7.6/scala-library-2.7.6.jar
+	Maven2 Local: resource not reachable for org/scala-lang#scala-library;2.7.6: res=file:/Users/tischler/.m2/repository/org/scala-lang/scala-library/2.7.6/scala-library-2.7.6.jar
+	 trying http://repo1.maven.org/maven2/org/scala-lang/scala-library/2.7.6/scala-library-2.7.6.jar
+		tried http://repo1.maven.org/maven2/org/scala-lang/scala-library/2.7.6/scala-library-2.7.6.jar
+	 trying /Users/tischler/.ivy2/local/org.scala-lang/scala-library/2.7.6/sources/scala-library.jar
+		tried /Users/tischler/.ivy2/local/org.scala-lang/scala-library/2.7.6/sources/scala-library.jar
+	local: resource not reachable for org.scala-lang#scala-library;2.7.6: res=/Users/tischler/.ivy2/local/org.scala-lang/scala-library/2.7.6/sources/scala-library.jar
+	 trying file:///Users/tischler/.m2/repository/org/scala-lang/scala-library/2.7.6/scala-library-2.7.6-sources.jar
+		tried file:///Users/tischler/.m2/repository/org/scala-lang/scala-library/2.7.6/scala-library-2.7.6-sources.jar
+	Maven2 Local: resource not reachable for org/scala-lang#scala-library;2.7.6: res=file:/Users/tischler/.m2/repository/org/scala-lang/scala-library/2.7.6/scala-library-2.7.6-sources.jar
+	 trying http://repo1.maven.org/maven2/org/scala-lang/scala-library/2.7.6/scala-library-2.7.6-sources.jar
+		tried http://repo1.maven.org/maven2/org/scala-lang/scala-library/2.7.6/scala-library-2.7.6-sources.jar
+source artifact found for org.scala-lang#scala-library;2.7.6
+	 trying /Users/tischler/.ivy2/local/org.scala-lang/scala-library/2.7.6/javadocs/scala-library.jar
+		tried /Users/tischler/.ivy2/local/org.scala-lang/scala-library/2.7.6/javadocs/scala-library.jar
+	local: resource not reachable for org.scala-lang#scala-library;2.7.6: res=/Users/tischler/.ivy2/local/org.scala-lang/scala-library/2.7.6/javadocs/scala-library.jar
+	 trying file:///Users/tischler/.m2/repository/org/scala-lang/scala-library/2.7.6/scala-library-2.7.6-javadoc.jar
+		tried file:///Users/tischler/.m2/repository/org/scala-lang/scala-library/2.7.6/scala-library-2.7.6-javadoc.jar
+	Maven2 Local: resource not reachable for org/scala-lang#scala-library;2.7.6: res=file:/Users/tischler/.m2/repository/org/scala-lang/scala-library/2.7.6/scala-library-2.7.6-javadoc.jar
+	 trying http://repo1.maven.org/maven2/org/scala-lang/scala-library/2.7.6/scala-library-2.7.6-javadoc.jar
+		tried http://repo1.maven.org/maven2/org/scala-lang/scala-library/2.7.6/scala-library-2.7.6-javadoc.jar
+javadoc artifact found for org.scala-lang#scala-library;2.7.6
+	default-cache: parsed downloaded md file for org.scala-lang#scala-library;2.7.6; parsed=org.scala-lang#scala-library;2.7.6
+	checking org.scala-lang#scala-library;2.7.6 from Maven Central against [none]
+	module revision kept as first found: org.scala-lang#scala-library;2.7.6 from Maven Central
+	found org.scala-lang#scala-library;2.7.6 in Maven Central
+== resolving dependencies org.scala-lang#scala-compiler;2.7.6->org.scala-lang#scala-library;2.7.6 [compile->compile(*)]
+loadData of org.scala-lang#scala-library;2.7.6 of rootConf=default
+== resolving dependencies org.scala-lang#scala-compiler;2.7.6->org.scala-lang#scala-library;2.7.6 [compile->default]
+loadData of org.scala-lang#scala-library;2.7.6 of rootConf=default
+== resolving dependencies org.scala-lang#scala-compiler;2.7.6->org.scala-lang#scala-library;2.7.6 [compile->runtime]
+loadData of org.scala-lang#scala-library;2.7.6 of rootConf=default
+== resolving dependencies org.scala-lang#scala-compiler;2.7.6->org.scala-lang#scala-library;2.7.6 [compile->compile]
+loadData of org.scala-lang#scala-library;2.7.6 of rootConf=default
+== resolving dependencies org.scala-lang#scala-compiler;2.7.6->org.scala-lang#scala-library;2.7.6 [compile->master]
+loadData of org.scala-lang#scala-library;2.7.6 of rootConf=default
+== resolving dependencies org.scala-lang#scala-compiler;2.7.6->org.scala-lang#scala-library;2.7.6 [runtime->runtime(*)]
+loadData of org.scala-lang#scala-library;2.7.6 of rootConf=default
+== resolving dependencies org.scala-lang#scala-compiler;2.7.6->org.scala-lang#scala-library;2.7.6 [runtime->compile]
+loadData of org.scala-lang#scala-library;2.7.6 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies sbt#boot;1.0->org.scala-lang#scala-compiler;2.7.6 [default->master]
+loadData of org.scala-lang#scala-compiler;2.7.6 of rootConf=default
+== resolving dependencies sbt#boot;1.0->org.scala-lang#scala-library;2.7.6 [default->default]
+loadData of org.scala-lang#scala-library;2.7.6 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies sbt#boot;1.0->org.scala-lang#scala-library;2.7.6 [default->runtime]
+loadData of org.scala-lang#scala-library;2.7.6 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies sbt#boot;1.0->org.scala-lang#scala-library;2.7.6 [default->compile]
+loadData of org.scala-lang#scala-library;2.7.6 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies sbt#boot;1.0->org.scala-lang#scala-library;2.7.6 [default->master]
+loadData of org.scala-lang#scala-library;2.7.6 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+Nbr of module to sort : 2
+Sort dependencies of : org.scala-lang#scala-compiler;2.7.6 / Number of dependencies = 1
+Sort dependencies of : org.scala-lang#scala-library;2.7.6 / Number of dependencies = 0
+Sort done for : org.scala-lang#scala-library;2.7.6
+Sort done for : org.scala-lang#scala-compiler;2.7.6
+Module descriptor is processed : org.scala-lang#scala-library;2.7.6
+	resolved ivy file produced in /Users/tischler/.ivy2/cache/resolved-sbt-boot-1.0.xml
+:: downloading artifacts ::
+	 trying http://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.7.6/scala-compiler-2.7.6.jar
+		tried http://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.7.6/scala-compiler-2.7.6.jar
+downloading http://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.7.6/scala-compiler-2.7.6.jar ...
+	Maven Central: downloading http://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.7.6/scala-compiler-2.7.6.jar
+		to /Users/tischler/.ivy2/cache/org.scala-lang/scala-compiler/jars/scala-compiler-2.7.6.jar.part
+	[SUCCESSFUL ] org.scala-lang#scala-compiler;2.7.6!scala-compiler.jar (12083ms)
+	 trying http://repo1.maven.org/maven2/org/scala-lang/scala-library/2.7.6/scala-library-2.7.6.jar
+		tried http://repo1.maven.org/maven2/org/scala-lang/scala-library/2.7.6/scala-library-2.7.6.jar
+downloading http://repo1.maven.org/maven2/org/scala-lang/scala-library/2.7.6/scala-library-2.7.6.jar ...
+	Maven Central: downloading http://repo1.maven.org/maven2/org/scala-lang/scala-library/2.7.6/scala-library-2.7.6.jar
+		to /Users/tischler/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.7.6.jar.part
+	[SUCCESSFUL ] org.scala-lang#scala-library;2.7.6!scala-library.jar (4630ms)
+:: resolution report :: resolve 2514ms :: artifacts dl 16717ms
+Nbr of module to sort : 2
+Sort dependencies of : org.scala-lang#scala-compiler;2.7.6 / Number of dependencies = 1
+Sort dependencies of : org.scala-lang#scala-library;2.7.6 / Number of dependencies = 0
+Sort done for : org.scala-lang#scala-library;2.7.6
+Sort done for : org.scala-lang#scala-compiler;2.7.6
+Module descriptor is processed : org.scala-lang#scala-library;2.7.6
+	report for sbt#boot;1.0 default produced in /Users/tischler/.ivy2/cache/sbt-boot-default.xml
+	resolve done (2514ms resolve - 16717ms download)
+:: retrieving :: sbt#boot
+	checkUpToDate=true
+no explicit confs given for retrieve, using ivy file: /Users/tischler/.ivy2/cache/resolved-sbt-boot-1.0.xml
+using ivy parser to parse /Users/tischler/.ivy2/cache/resolved-sbt-boot-1.0.xml
+pre 1.3 ivy file: using exactOrRegexp as default matcher
+	confs: [default]
+	retrieving /Users/tischler/.ivy2/cache/org.scala-lang/scala-compiler/jars/scala-compiler-2.7.6.jar
+		to /Users/tischler/working/httpload/project/boot/scala-2.7.6/lib/scala-compiler.jar
+	retrieving /Users/tischler/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.7.6.jar
+		to /Users/tischler/working/httpload/project/boot/scala-2.7.6/lib/scala-library.jar
+	2 artifacts copied, 0 already retrieved (9831kB/145ms)
+	retrieve done (145ms)
+setting 'ivy.default.settings.dir' to 'jar:file:/Users/tischler/java/scala-2.7.6.final/bin/sbt-launcher-0.5.5.jar!/org/apache/ivy/core/settings'
+setting 'ivy.basedir' to '/Users/tischler/working/httpload/.'
+setting 'ivy.default.conf.dir' to 'jar:file:/Users/tischler/java/scala-2.7.6.final/bin/sbt-launcher-0.5.5.jar!/org/apache/ivy/core/settings'
+impossible to define new type: class not found: org.apache.ivy.plugins.trigger.LogTrigger in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.plugins.resolver.VsftpResolver in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.plugins.conflict.RegexpConflictManager in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.plugins.resolver.SshResolver in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.plugins.resolver.VfsResolver in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.plugins.resolver.SFTPResolver in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.plugins.resolver.packager.PackagerResolver in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.ant.AntCallTrigger in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.plugins.resolver.IvyRepResolver in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.ant.AntBuildTrigger in [] nor Ivy classloader
+impossible to define glob matcher: org.apache.ivy.plugins.matcher.GlobPatternMatcher was not found.
+setting 'java.runtime.name' to 'Java(TM) SE Runtime Environment'
+setting 'sun.boot.library.path' to '/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Libraries'
+setting 'java.vm.version' to '14.1-b02-92'
+setting 'awt.nativeDoubleBuffering' to 'true'
+setting 'gopherProxySet' to 'false'
+setting 'java.vm.vendor' to 'Apple Inc.'
+setting 'java.vendor.url' to 'http://www.apple.com/'
+setting 'path.separator' to ':'
+setting 'java.vm.name' to 'Java HotSpot(TM) 64-Bit Server VM'
+setting 'file.encoding.pkg' to 'sun.io'
+setting 'sun.java.launcher' to 'SUN_STANDARD'
+setting 'user.country' to 'US'
+setting 'sun.os.patch.level' to 'unknown'
+setting 'java.vm.specification.name' to 'Java Virtual Machine Specification'
+setting 'user.dir' to '/Users/tischler/working/httpload'
+setting 'java.runtime.version' to '1.6.0_15-b03-226'
+setting 'java.awt.graphicsenv' to 'apple.awt.CGraphicsEnvironment'
+setting 'java.endorsed.dirs' to '/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Home/lib/endorsed'
+setting 'os.arch' to 'x86_64'
+setting 'java.io.tmpdir' to '/var/folders/jN/jNjEySm6HN4+pNSNSkIOWU+++TI/-Tmp-/'
+setting 'line.separator' to '
+'
+setting 'java.vm.specification.vendor' to 'Sun Microsystems Inc.'
+setting 'os.name' to 'Mac OS X'
+setting 'sun.jnu.encoding' to 'MacRoman'
+setting 'java.library.path' to '.:/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java'
+setting 'sbt.boot' to 'true'
+setting 'java.specification.name' to 'Java Platform API Specification'
+setting 'java.class.version' to '50.0'
+setting 'sun.management.compiler' to 'HotSpot 64-Bit Server Compiler'
+setting 'os.version' to '10.5.8'
+setting 'user.home' to '/Users/tischler'
+setting 'user.timezone' to 'America/Chicago'
+setting 'scala.home' to '/Users/tischler/working/httpload/project/boot/scala-2.7.6'
+setting 'java.awt.printerjob' to 'apple.awt.CPrinterJob'
+setting 'file.encoding' to 'MacRoman'
+setting 'java.specification.version' to '1.6'
+setting 'java.class.path' to '/Users/tischler/java/scala/bin/sbt-launcher-0.5.5.jar'
+setting 'user.name' to 'tischler'
+setting 'java.vm.specification.version' to '1.0'
+setting 'java.home' to '/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Home'
+setting 'sun.arch.data.model' to '64'
+setting 'user.language' to 'en'
+setting 'java.specification.vendor' to 'Sun Microsystems Inc.'
+setting 'awt.toolkit' to 'apple.awt.CToolkit'
+setting 'java.vm.info' to 'mixed mode'
+setting 'java.version' to '1.6.0_15'
+setting 'java.ext.dirs' to '/Library/Java/Extensions:/System/Library/Java/Extensions:/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Home/lib/ext'
+setting 'sun.boot.class.path' to '/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Classes/jsfd.jar:/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Classes/classes.jar:/System/Library/Frameworks/JavaVM.framework/Frameworks/JavaRuntimeSupport.framework/Resources/Java/JavaRuntimeSupport.jar:/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Classes/ui.jar:/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Classes/laf.jar:/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Classes/sunrsasign.jar:/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Classes/jsse.jar:/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Classes/jce.jar:/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Classes/charsets.jar'
+setting 'java.vendor' to 'Apple Inc.'
+setting 'file.separator' to '/'
+setting 'java.vendor.url.bug' to 'http://bugreport.apple.com/'
+setting 'sun.io.unicode.encoding' to 'UnicodeLittle'
+setting 'sun.cpu.endian' to 'little'
+setting 'mrj.version' to '1050.1.6.0_15-226'
+setting 'sun.cpu.isalist' to ''
+setting 'ivy.default.ivy.user.dir' to '/Users/tischler/.ivy2'
+setting 'ivy.home' to '/Users/tischler/.ivy2'
+no default ivy user dir defined: set to /Users/tischler/.ivy2
+setting 'ivy.cache.dir' to '/Users/tischler/.ivy2/cache'
+no default cache defined: set to /Users/tischler/.ivy2/cache
+setting 'ivy.basedir' to '/Users/tischler/working/httpload/project/boot/scala-2.7.6'
+setting 'basedir' to '/Users/tischler/working/httpload/project/boot/scala-2.7.6'
+:: resolving dependencies :: sbt#boot;1.0
+	confs: [default]
+	validate = true
+	refresh = false
+resolving dependencies for configuration 'default'
+== resolving dependencies for sbt#boot;1.0 [default]
+loadData of sbt#boot;1.0 of rootConf=default
+== resolving dependencies sbt#boot;1.0->sbt#simple-build-tool;0.5.5 [default->2.7.6]
+loadData of sbt#simple-build-tool;0.5.5 of rootConf=default
+	using redefined-public to resolve sbt#simple-build-tool;0.5.5
+redefined-public: Checking cache for: dependency: sbt#simple-build-tool;0.5.5 {default=[2.7.6]}
+redefined-public: no namespace defined: using system
+No entry is found in the ModuleDescriptorCache : /Users/tischler/.ivy2/cache/sbt/simple-build-tool/ivy-0.5.5.xml
+pre 1.3 ivy file: using exactOrRegexp as default matcher
+	found ivy file in cache for sbt#simple-build-tool;0.5.5 (resolved by Sbt Repository): /Users/tischler/.ivy2/cache/sbt/simple-build-tool/ivy-0.5.5.xml
+redefined-public: module revision found in cache: sbt#simple-build-tool;0.5.5
+redefined-public: no latest strategy defined: using default
+	found sbt#simple-build-tool;0.5.5 in Sbt Repository
+== resolving dependencies sbt#boot;1.0->sbt#simple-build-tool;0.5.5 [default->base]
+loadData of sbt#simple-build-tool;0.5.5 of rootConf=default
+== resolving dependencies sbt#simple-build-tool;0.5.5->org.apache.ivy#ivy;2.0.0 [base->default]
+loadData of org.apache.ivy#ivy;2.0.0 of rootConf=default
+	using redefined-public to resolve org.apache.ivy#ivy;2.0.0
+redefined-public: Checking cache for: dependency: org.apache.ivy#ivy;2.0.0 {base=[default]}
+No entry is found in the ModuleDescriptorCache : /Users/tischler/.ivy2/cache/org.apache.ivy/ivy/ivy-2.0.0.xml
+pre 1.3 ivy file: using exactOrRegexp as default matcher
+	found ivy file in cache for org.apache.ivy#ivy;2.0.0 (resolved by Maven Central): /Users/tischler/.ivy2/cache/org.apache.ivy/ivy/ivy-2.0.0.xml
+redefined-public: module revision found in cache: org.apache.ivy#ivy;2.0.0
+	found org.apache.ivy#ivy;2.0.0 in Maven Central
+== resolving dependencies sbt#simple-build-tool;0.5.5->org.apache.ivy#ivy;2.0.0 [base->runtime]
+loadData of org.apache.ivy#ivy;2.0.0 of rootConf=default
+== resolving dependencies sbt#simple-build-tool;0.5.5->org.apache.ivy#ivy;2.0.0 [base->compile]
+loadData of org.apache.ivy#ivy;2.0.0 of rootConf=default
+== resolving dependencies sbt#simple-build-tool;0.5.5->org.apache.ivy#ivy;2.0.0 [base->master]
+loadData of org.apache.ivy#ivy;2.0.0 of rootConf=default
+== resolving dependencies sbt#simple-build-tool;0.5.5->com.jcraft#jsch;0.1.31 [base->default]
+loadData of com.jcraft#jsch;0.1.31 of rootConf=default
+	using redefined-public to resolve com.jcraft#jsch;0.1.31
+redefined-public: Checking cache for: dependency: com.jcraft#jsch;0.1.31 {base=[default]}
+No entry is found in the ModuleDescriptorCache : /Users/tischler/.ivy2/cache/com.jcraft/jsch/ivy-0.1.31.xml
+pre 1.3 ivy file: using exactOrRegexp as default matcher
+	found ivy file in cache for com.jcraft#jsch;0.1.31 (resolved by Maven Central): /Users/tischler/.ivy2/cache/com.jcraft/jsch/ivy-0.1.31.xml
+redefined-public: module revision found in cache: com.jcraft#jsch;0.1.31
+	found com.jcraft#jsch;0.1.31 in Maven Central
+== resolving dependencies sbt#simple-build-tool;0.5.5->com.jcraft#jsch;0.1.31 [base->runtime]
+loadData of com.jcraft#jsch;0.1.31 of rootConf=default
+== resolving dependencies sbt#simple-build-tool;0.5.5->com.jcraft#jsch;0.1.31 [base->compile]
+loadData of com.jcraft#jsch;0.1.31 of rootConf=default
+== resolving dependencies sbt#simple-build-tool;0.5.5->com.jcraft#jsch;0.1.31 [base->master]
+loadData of com.jcraft#jsch;0.1.31 of rootConf=default
+Nbr of module to sort : 3
+Sort dependencies of : sbt#simple-build-tool;0.5.5 / Number of dependencies = 3
+Sort dependencies of : org.apache.ivy#ivy;2.0.0 / Number of dependencies = 13
+Sort dependencies of : com.jcraft#jsch;0.1.31 / Number of dependencies = 1
+Sort done for : com.jcraft#jsch;0.1.31
+Sort done for : org.apache.ivy#ivy;2.0.0
+Module descriptor is processed : com.jcraft#jsch;0.1.31
+Sort done for : sbt#simple-build-tool;0.5.5
+Module descriptor is processed : org.apache.ivy#ivy;2.0.0
+Module descriptor is processed : com.jcraft#jsch;0.1.31
+	resolved ivy file produced in /Users/tischler/.ivy2/cache/resolved-sbt-boot-1.0.xml
+:: downloading artifacts ::
+Sbt Repository: no namespace defined: using system
+	 trying http://simple-build-tool.googlecode.com/svn/artifacts/0.5.5/jars/sbt_2.7.6.jar
+		tried http://simple-build-tool.googlecode.com/svn/artifacts/0.5.5/jars/sbt_2.7.6.jar
+downloading http://simple-build-tool.googlecode.com/svn/artifacts/0.5.5/jars/sbt_2.7.6.jar ...
+	Sbt Repository: downloading http://simple-build-tool.googlecode.com/svn/artifacts/0.5.5/jars/sbt_2.7.6.jar
+		to /Users/tischler/.ivy2/cache/sbt/simple-build-tool/jars/sbt_2.7.6-0.5.5.jar.part
+	[SUCCESSFUL ] sbt#simple-build-tool;0.5.5!sbt_2.7.6.jar (3661ms)
+	[NOT REQUIRED] org.apache.ivy#ivy;2.0.0!ivy.jar
+	[NOT REQUIRED] com.jcraft#jsch;0.1.31!jsch.jar
+:: resolution report :: resolve 136ms :: artifacts dl 3664ms
+Nbr of module to sort : 3
+Sort dependencies of : sbt#simple-build-tool;0.5.5 / Number of dependencies = 3
+Sort dependencies of : org.apache.ivy#ivy;2.0.0 / Number of dependencies = 13
+Sort dependencies of : com.jcraft#jsch;0.1.31 / Number of dependencies = 1
+Sort done for : com.jcraft#jsch;0.1.31
+Sort done for : org.apache.ivy#ivy;2.0.0
+Module descriptor is processed : com.jcraft#jsch;0.1.31
+Sort done for : sbt#simple-build-tool;0.5.5
+Module descriptor is processed : org.apache.ivy#ivy;2.0.0
+Module descriptor is processed : com.jcraft#jsch;0.1.31
+	report for sbt#boot;1.0 default produced in /Users/tischler/.ivy2/cache/sbt-boot-default.xml
+	resolve done (136ms resolve - 3664ms download)
+:: retrieving :: sbt#boot
+	checkUpToDate=true
+no explicit confs given for retrieve, using ivy file: /Users/tischler/.ivy2/cache/resolved-sbt-boot-1.0.xml
+using ivy parser to parse /Users/tischler/.ivy2/cache/resolved-sbt-boot-1.0.xml
+pre 1.3 ivy file: using exactOrRegexp as default matcher
+	confs: [default]
+	retrieving /Users/tischler/.ivy2/cache/com.jcraft/jsch/jars/jsch-0.1.31.jar
+		to /Users/tischler/working/httpload/project/boot/scala-2.7.6/sbt-0.5.5/jsch-0.1.31.jar
+	retrieving /Users/tischler/.ivy2/cache/org.apache.ivy/ivy/jars/ivy-2.0.0.jar
+		to /Users/tischler/working/httpload/project/boot/scala-2.7.6/sbt-0.5.5/ivy-2.0.0.jar
+	retrieving /Users/tischler/.ivy2/cache/sbt/simple-build-tool/jars/sbt_2.7.6-0.5.5.jar
+		to /Users/tischler/working/httpload/project/boot/scala-2.7.6/sbt-0.5.5/sbt_2.7.6-0.5.5.jar
+	3 artifacts copied, 0 already retrieved (3395kB/78ms)
+	retrieve done (78ms)

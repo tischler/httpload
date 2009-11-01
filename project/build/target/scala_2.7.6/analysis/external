@@ -1,0 +1,5 @@
+#External Dependencies
+#Sun Nov 01 01:06:21 CDT 2009
+/Users/tischler/working/projects/httpload/project/boot/scala-2.7.6/sbt-0.5.5/sbt_2.7.6-0.5.5.jar=HttpLoad.scala
+/Users/tischler/working/projects/httpload/project/boot/scala-2.7.6/lib/scala-library.jar=HttpLoad.scala
+/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Classes/classes.jar=HttpLoad.scala

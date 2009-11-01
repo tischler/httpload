@@ -1,0 +1,70 @@
+build
+test
+eclipse
+quit
+reload
+hi
+quit
+help
+actions
+update
+reload
+update
+reload
+update
+reload
+resolve
+update
+reload
+update
+reload
+update
+reload
+update
+quit
+help
+get
+actions
+set scala.version 2.7.7
+reboot
+hi
+update
+reload
+update
+exit
+run
+run foo.txt
+run "--file=foo.txt"
+reload
+run "--file=foo.txt"
+reload
+compile
+run "--file=foo.txt"
+reload
+run
+compile
+reload
+compile
+run "--file=foo.txt"
+run "--file=foo.txt -v"
+run "--file=foo.txt -v=true"
+run "--file=foo.txt -v"
+run "-v --file=foo.txt "
+run "--v --file=foo.txt "
+run "-v --file=foo.txt "
+run "-v --file=foo.txt"
+run "--file=foo.txt"
+run "-v --file=foo.txt"
+run "--file=foo.txt"
+run "--file=foo.txt -v"
+run "--file=urls.txt -v"
+run
+run "--file=urls.txt -v"
+run
+run "--file=urls.txt -v"
+run
+run "--file=urls.txt -v"
+run "--fileName=foo.txt"
+quit
+run "--fileName=foo.txt"
+run "--file=urls.txt -v"
